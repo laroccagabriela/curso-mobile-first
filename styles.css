@@ -409,7 +409,7 @@ main {
     min-width: 288px;
     height: auto;
     margin: 0 auto;
-
+    margin-bottom: 50px;
 }
 .plans--title h2 {
     padding-top: 50px;
@@ -417,7 +417,6 @@ main {
     font-weight: bold;
     line-height: 2.6rem;
     color: var(--black);
-    margin-bottom: 50px;
 }
 .plans--title p {
     padding-top: 30px;
