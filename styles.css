@@ -134,6 +134,17 @@ main {
     line-height: 1.6rem;
     color: #757575;
 }
+.main-tables-container {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+    width: 240px;
+    margin: 0 auto;
+    height: 365px;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x proximity;
+}
 .main-currency-table {
     width: 70%;
     min-width: 235px;
